@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
-- 📫 How to reach me **cm.ceeo.cm@gmail.com**
+- 📫 How to reach me **cm.ceo.cm@gmail.com**
 
 - ⚡ Fun fact **I work even when I am tired 😂**
 
