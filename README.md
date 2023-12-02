@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Majhi</h1>
-<h3 align="center">A passionate Artificial Intelligence and Machine Learning Enthusiast</h3>
+<h2 align="center">A passionate Artificial Intelligence and Machine Learning Enthusiast</h2>
 
 <h3 align="center">
 🎓Student,Self-Taught Coder <br>
@@ -18,7 +18,9 @@ I will Never Give Up, Development development only development..
 
 - 🤝 I’m looking for help with **Data Science and Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chandanmajhi7](https://github.com/Chandanmajhi7)
+- 👨‍💻 All of my projects are available at [https://github.com/Chandanmajhi7]
+
+- 👨‍💻 Data Structure [https://auth.geeksforgeeks.org/user/chandan_majhi]
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
