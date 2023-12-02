@@ -5,6 +5,15 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, NLP and Web Development based Projects**
 
+🎓Student,Self-Taught Coder
+👨‍💻Develops Webapps. Back-end works
+❤️Loves Graphic Designing,Video editing
+📖Studies at Arka Jain University,Jamshedpur
+💻Branch Computer Science And Engineering
+😍Likes Rsearch,Taking Seminar and Obviously Coding
+🤗Intrested in Web-Development, Application-Development,Open source, AI,ML Anything Tech
+I'm Never Give Up, Development development only development..
+
 - 🤝 I’m looking for help with **Data Science and Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chandanmajhi7](https://github.com/Chandanmajhi7)
