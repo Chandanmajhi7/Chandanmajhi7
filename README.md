@@ -18,9 +18,9 @@ I will Never Give Up, Development development only development..
 
 - 🤝 I’m looking for help with **Data Science and Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chandanmajhi7]
+- 👨‍💻 All of my projects are available at [https://github.com/Chandanmajhi7](https://github.com/Chandanmajhi7)
 
-- 👨‍💻 Data Structure [https://auth.geeksforgeeks.org/user/chandan_majhi]
+- 👨‍💻 Data Structure [https://auth.geeksforgeeks.org/user/chandan_majhi](https://auth.geeksforgeeks.org/user/chandan_majhi)
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
