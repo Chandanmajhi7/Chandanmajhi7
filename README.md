@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Majhi</h1>
 <h2 align="center">A passionate Artificial Intelligence and Machine Learning Enthusiast</h2>
 
-<h3 align="center">
+<h4 align="center">
 🎓Student,Self-Taught Coder <br>
 👨‍💻Develops Webapps. Back-end works <br>
 ❤️Loves Graphic Designing,Video editing<br>
@@ -10,7 +10,7 @@
 😍Likes Research,Taking Seminar and Obviously Coding<br>
 🤗Interested in Web-Development, Application-Development,Open source, AI,ML Anything Tech<br>
 I will Never Give Up, Development development only development..
-</h3>
+</h4>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpycmpnM2hybHRmaGJuamplYTR2ZG1vb3M3ZHE1NXY1a3cyOHRiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif">
 
