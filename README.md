@@ -12,6 +12,7 @@
 I will Never Give Up, Development development only development..
 </h3>
 
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/angry-doggo--386746686759333212/">
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning and Web Development**
 
