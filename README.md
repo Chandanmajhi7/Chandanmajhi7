@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chandan Majhi</h1>
 <h2 align="center">A passionate Artificial Intelligence and Machine Learning Enthusiast</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanmajhi7&label=Profile%20views&color=0e75b6&style=flat" alt="chandanmajhi7" /> </p>
+
 <h4 align="center">
 🎓Student,Self-Taught Coder <br>
 👨‍💻Develops Webapps. Back-end works <br>
