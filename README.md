@@ -8,8 +8,6 @@
 Student,Self-Taught Coder <br>
 </h4>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpycmpnM2hybHRmaGJuamplYTR2ZG1vb3M3ZHE1NXY1a3cyOHRiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif">
-
 
 - 👨‍💻 All of my projects are available at [https://github.com/cmhightech](https://github.com/cmhightech)
 
