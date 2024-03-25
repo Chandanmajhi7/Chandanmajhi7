@@ -1,24 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Chandan Majhi</h1>
+<h1 align="center">Hi I'm Chandan Majhi</h1>
 <h2 align="center">A passionate Artificial Intelligence and Machine Learning Enthusiast</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanmajhi7&label=Profile%20views&color=0e75b6&style=flat" alt="chandanmajhi7" /> </p>
-
-<h4 align="center">
-Student,Self-Taught Coder <br>
-</h4>
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/cmhightech](https://github.com/cmhightech)
-
-- 👨‍💻 Data Structure [https://auth.geeksforgeeks.org/user/chandan_majhi](https://auth.geeksforgeeks.org/user/chandan_majhi)
-
-- 💬 Ask me about **Machine Learning and Deep Learning**
-
-- 📫 How to reach me **cm.ceo.cm@gmail.com**
-
-- ⚡ Fun fact **I work even when I am tired 😂**
-
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chandan_majhi_7" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="chandan_majhi_7" height="30" width="40" /></a>
