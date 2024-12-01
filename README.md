@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanmajhi7&label=Profile%20views&color=0e75b6&style=flat" alt="chandanmajhi7" /> </p>
 
-![Chandan majhi Stats](https://leetcode-status.vercel.app/api/card/chandanmajhi?theme=transparent&hide_title=true&custom_title=Chandan majhi)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
