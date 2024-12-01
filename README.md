@@ -4,17 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanmajhi7&label=Profile%20views&color=0e75b6&style=flat" alt="chandanmajhi7" /> </p>
 
-<h2 align="center">Leetcode Info<h2>  
-<p align="center">
-  <a href="https://leetcode.com/chandanmajhi/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/chandanmajhi/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/chandanmajhi/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/chandanmajhi/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p>
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/chandanmajhi?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
+![Chandan majhi Stats](https://leetcode-status.vercel.app/api/card/chandanmajhi?theme=transparent&hide_title=true&custom_title=Chandan majhi)
 
 
 <h3 align="left">Connect with me:</h3>
