@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?weight=700&font=Roboto&size=35&center=true&vCenter=true&width=680&height=70&duration=6000&lines=Hi!👋,+Hi+I'm+Chandan+Majhi;Software+Engineer+from+India+🎯;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?weight=700&font=Roboto&size=35&center=true&vCenter=true&width=680&height=70&duration=6000&lines=Hi!👋,+I'm+Chandan+Majhi;Software+Engineer+from+India+🎯;" />
 </h1>
 <h2 align="center">A passionate Artificial Intelligence and Machine Learning Enthusiast</h2>
 <br>
