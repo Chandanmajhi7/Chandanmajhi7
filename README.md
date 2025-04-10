@@ -1,7 +1,8 @@
-
-<h1 align="center">Hi I'm Chandan Majhi</h1>
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?weight=700&font=Roboto&size=35&center=true&vCenter=true&width=680&height=70&duration=6000&lines=Hi!👋,+Hi+I'm+Chandan+Majhi;Software+Engineer+from+India+🎯;" />
+</h1>
 <h2 align="center">A passionate Artificial Intelligence and Machine Learning Enthusiast</h2>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanmajhi7&label=Profile%20views&color=0e75b6&style=flat" alt="chandanmajhi7" /> </p>
 
 
