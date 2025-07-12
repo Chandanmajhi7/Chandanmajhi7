@@ -12,11 +12,8 @@
 <a href="https://linkedin.com/in/chandan-majhi-8a45b9222/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="chandanmajhi" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanmajhi7&show_icons=true&locale=en&layout=compact" alt="chandanmajhi7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanmajhi7&show_icons=true&locale=en" alt="chandanmajhi7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanmajhi7&" alt="chandanmajhi7" /></p>
+![](https://github-readme-stats.vercel.app/api?username=chandanmajhi7&show_icons=true&card_width=400&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com?user=chandanmajhi7&card_width=400&theme=tokyonight)
 
 
 
