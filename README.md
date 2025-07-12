@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?weight=700&font=Roboto&size=35&center=true&vCenter=true&width=680&height=70&duration=6000&lines=Decoding+complexity,+scaling+intelligence,+blending+algorithms+with+artistry,+and+architecting+the+future+through+code+🎯;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?weight=700&font=Roboto&size=35&center=true&vCenter=true&width=680&height=70&duration=6000&lines=Decoding+complexity;scaling+intelligence;blending+algorithms+with+artistry,+and;architecting+the+future+through+code+🎯;" />
 </h1>
 <h2 align="center">Talk to me about AI, Machine Learning, Deep Learning, NLP, Computer Vision, Data Science, MLOps, Web3, and modern web development.</h2>
 <br>
