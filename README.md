@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chandan_majhi_7" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="chandan_majhi_7" height="30" width="40" /></a>
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ryzer_c?)
 <a href="https://linkedin.com/in/chandan-majhi-8a45b9222/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="chandanmajhi" height="30" width="40" /></a>
 </p>
 
