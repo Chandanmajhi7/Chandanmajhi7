@@ -8,7 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ryzer_c?)
 <a href="https://linkedin.com/in/chandan-majhi-8a45b9222/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="chandanmajhi" height="30" width="40" /></a>
 </p>
 
